@@ -1,7 +1,7 @@
 ---
 tags: false
 layout: collection
-title: Academy Conversions
+title: Conversions
 description: An internal service for DfE colleagues to manage applications from schools applying to become academies.
 eleventyComputed:
   eleventyNavigation:

@@ -1,8 +1,8 @@
 ---
 tags: false
 layout: collection
-title: Significant Change
-description: An internal service for DfE colleagues to manage Trusts, academies and their significant changes.
+title: Changes
+description: An external service for Trusts to apply for approval to make changes. An internal service for DfE colleagues to manage these applications.
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"

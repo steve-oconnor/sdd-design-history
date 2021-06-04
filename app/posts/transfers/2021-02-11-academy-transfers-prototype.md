@@ -1,5 +1,5 @@
 ---
-title: Academy transfers prototype
+title: Transfers prototype
 description:
 date: 2021-02-11
 ---
